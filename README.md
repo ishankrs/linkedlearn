@@ -82,3 +82,4 @@ This project is **not affiliated with, endorsed by, or associated with LinkedIn 
 
 This extension automates video playback to register completion through LinkedIn's normal tracking. It does not call any hidden or undocumented "mark complete" endpoints — it simply plays each video in a real browser tab using your logged-in session. Use responsibly and be aware that automated course completion may conflict with LinkedIn Learning's Terms of Service or your organization's learning policies.
 
+![Repo Views](https://visitor-badge.laobi.icu/badge?page_id=ishankrs.linkedlearn)
