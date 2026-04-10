@@ -30,7 +30,7 @@ No external servers or third-party APIs are involved — everything runs locally
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/<your-username>/linkedlearn.git
+   git clone https://github.com/ishankrs/linkedlearn.git
    ```
 2. Open Chrome and go to `chrome://extensions/`.
 3. Enable **Developer mode** (toggle in the top-right corner).
